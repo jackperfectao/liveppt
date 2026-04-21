@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.DS_Store
+plans/
+themes/
+releases/v0.0.0-ci.md
+dist/
